@@ -19,3 +19,5 @@ I'm Rakesh Reddy, a passionate software developer. I've honed my skills in web d
 [![](https://komarev.com/ghpvc/?username=rakeshreddy-2512&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![rakeshreddy-2512's GitHub stats](https://gitshine.com/card/rakeshreddy-2512?theme=light&layout=sky)](https://gitshine.com/stats/rakeshreddy-2512)
